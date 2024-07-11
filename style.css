@@ -7,3 +7,36 @@ html {
   margin: 0;
   padding: 0;
 }
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  background-color: #1f2937;
+  color: #f9faf8;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 18px;
+}
+
+.right-links {
+  list-style-type: none;
+  display: flex;
+  gap: 18px;
+  justify-content: flex-end;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+  color: #e5e7eb;
+  font-size: 18px;
+}
