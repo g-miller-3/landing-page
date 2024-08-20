@@ -1,3 +1,5 @@
+/* General Styles */
+
 html {
   box-sizing: border-box;
 }
@@ -26,6 +28,8 @@ a {
   color: #e5e7eb;
   font-size: 18px;
 }
+
+/* Header and Navigation Bar */
 
 .header {
   background-color: #1f2937;
@@ -76,5 +80,3 @@ a {
   max-width: 450px;
   max-height: auto;
 }
-
-
